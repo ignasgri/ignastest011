@@ -1,0 +1,1 @@
+c:\Users\ignas\virtualenvs\ ignastest011\Scripts\activate
